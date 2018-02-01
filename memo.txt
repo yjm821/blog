@@ -1,0 +1,17 @@
+ELBとは
+　　https://aws.amazon.com/jp/elasticloadbalancing/
+
+HyperLedger Fabric(v1.00) におけるトランザクションの理解
+　　https://qiita.com/hakozaki/items/9c7d1e00c4cf486a8f1f
+
+Hyperledger Fabric v0.6 用のブロックチェーン・チェーンコードを Go 言語で作成
+する
+　　
+https://www.ibm.com/developerworks/jp/cloud/library/cl-ibm-blockchain-chaincode-development-using-golang/
+
+yjm821@163.com
+yujm8201!
+
+http://chinawkb.com/
+
+yujm8201??A
